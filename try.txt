@@ -1,0 +1,16 @@
+
+git clone [url]
+git status
+
+
+git push
++++++++++
+git add .
+git commit -m "comments"
+git push 
+
+
+
+git pull
+++++++++++
+git pull
