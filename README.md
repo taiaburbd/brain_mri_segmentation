@@ -16,7 +16,8 @@
 
 ## Images
 Images demonstrating the segmentation results and model architecture can be found in the repository's `results` folder.
-
+- With Aumentation 
 ![with agumentation](https://github.com/taiaburbd/brain_mri_segmentation/blob/main/results/with_agumentation.png)
+- Without Aumentation
 ![without agumentation](https://github.com/taiaburbd/brain_mri_segmentation/blob/main/results/without_agumentation.png)
 
